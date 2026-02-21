@@ -44,7 +44,7 @@ Dtoke Rocket is released under the MIT License. See file for more information.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainers at [guido.gomez278@gmail.com](mailto: guido.gomez278@gmail.com).
+If you have any questions, suggestions, or feedback, feel free to contact the project maintainers at [contacto@agraound.site].
 
 Enjoy your interstellar adventure with Dtoke Rocket!
 
