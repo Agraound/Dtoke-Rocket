@@ -1,9 +1,5 @@
-# Dtoke-Rocket
-https://agraound.github.io/Dtoke-Rocket/
-
-
 # Dtoke Rocket
-
+https://agraound.github.io/Dtoke-Rocket/
 Dtoke Rocket is a space-themed game project aimed at providing an entertaining gameplay experience. Embark on an exciting journey through the depths of space, where you can control a spaceship and navigate it through various cabins. As the pilot, you will witness the fascinating cyber space travel view from the cockpit.
 
 ## Features
